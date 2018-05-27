@@ -23,6 +23,16 @@ PHN.parse();
 //   providerCode: 'G'
 // }
 
+PHN.countryCode
+// 63
+
+PHN.providers
+// {
+//   name: 'Globe Telecom',
+//   code: 'G',
+//   prefixes: [921, 922, 933]
+// }
+
 ```
 
 ## References
